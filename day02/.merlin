@@ -1,0 +1,12 @@
+EXCLUDE_QUERY_DIR
+B /nix/store/58mc6p87fwh5iz2vsrgajhfx6aladpww-ocaml4.06.1-result-1.2/lib/ocaml/4.06.1/site-lib/result
+B /nix/store/9nx9qp9ahi7958y3kwg3kfwq0pj3hgm4-ocaml4.06.1-gen-0.5/lib/ocaml/4.06.1/site-lib/gen
+B /nix/store/s542fy801yqql9lz80cyrfwf3072wccp-ocaml4.06.1-containers-1.4/lib/ocaml/4.06.1/site-lib/containers
+B /nix/store/xilphz67psiz9c8lad2gk7ndfn5zw4k9-ocaml-findlib-1.8.1/lib/ocaml/4.06.1/site-lib/bytes
+B ../_build/default/day02/.day02.eobjs/byte
+S /nix/store/58mc6p87fwh5iz2vsrgajhfx6aladpww-ocaml4.06.1-result-1.2/lib/ocaml/4.06.1/site-lib/result
+S /nix/store/9nx9qp9ahi7958y3kwg3kfwq0pj3hgm4-ocaml4.06.1-gen-0.5/lib/ocaml/4.06.1/site-lib/gen
+S /nix/store/s542fy801yqql9lz80cyrfwf3072wccp-ocaml4.06.1-containers-1.4/lib/ocaml/4.06.1/site-lib/containers
+S /nix/store/xilphz67psiz9c8lad2gk7ndfn5zw4k9-ocaml-findlib-1.8.1/lib/ocaml/4.06.1/site-lib/bytes
+S .
+FLG -w -40

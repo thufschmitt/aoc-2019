@@ -1,0 +1,5 @@
+(executable
+  (name day02)
+  (public_name day02)
+  (package aoc)
+  (libraries containers gen))
