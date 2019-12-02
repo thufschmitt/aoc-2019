@@ -1,0 +1,7 @@
+# dune-generated files
+_build
+aoc.install
+*.merlin
+
+# Nix stuff
+result
