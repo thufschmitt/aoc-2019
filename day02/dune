@@ -1,5 +1,13 @@
 (executable
   (name day02)
+  (modules Day02)
   (public_name day02)
+  (package aoc)
+  (libraries containers gen))
+
+(executable
+  (name analytic)
+  (modules Analytic)
+  (public_name day02-analytic)
   (package aoc)
   (libraries containers gen))
